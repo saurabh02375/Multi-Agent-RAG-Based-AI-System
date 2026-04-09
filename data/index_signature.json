@@ -1,1 +1,0 @@
-{"files": {"248122024_2025-04-15.pdf": 1765449268.1143131, "35112025_2025-03-28.pdf": 1765456686.4092672, "358362024_2025-02-25.pdf": 1765460136.989113, "legal_judgment.pdf": 1765349729.0}, "config": {"embedding_model": "sentence-transformers/all-mpnet-base-v2", "chunk_size": 800, "chunk_overlap": 200}}
