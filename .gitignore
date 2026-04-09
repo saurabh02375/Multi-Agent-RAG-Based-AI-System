@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+.DS_Store
+*.sqlite3
+*.db
+*.log
+*.pot
+*.rar
+*.zip
+*.tar.gz
+.env
+*.env
+apikeygrog.txt
+dev2RAG (1).rar
+RAG (1)/
+data/chroma_db/
